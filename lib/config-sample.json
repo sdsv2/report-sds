@@ -1,0 +1,14 @@
+{
+  "report": {
+    "title": "Report SDS",
+    "listen_port": 4677,
+    "apiKey":"please change me"
+  },
+  "mysql":{
+    "host": "please change me",
+    "database": "please change",
+    "user": "please change me",
+    "password": "",
+    "selective_max_statement_time": 0
+  }
+}
